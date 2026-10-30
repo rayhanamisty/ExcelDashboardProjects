@@ -16,11 +16,5 @@ Welcome to the **Excel Analytics Hub**—a curated collection of interactive Exc
 │   ├── company_esg_financial_dataset.xlsx
 │   ├── ESG-Fin-performance-Dashboard
 │
-├── 03-Customer-Analytics/
-│   ├── Customer_Analytics_Dashboard.xlsx
-│   ├── data/
-│   │   └── customer_churn_data.csv
-│   └── screenshots/
-│       └── dashboard_preview.png
 │
 └── README.md
