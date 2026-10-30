@@ -12,12 +12,9 @@ Welcome to the **Excel Analytics Hub**—a curated collection of interactive Exc
 │   ├── ecommerce_sales_data_updated.xlsx
 │   ├── ecommerce_sales_data_dashboard.pdf
 │
-├── 02-Financial-Variance/
-│   ├── Financial_Variance_Dashboard.xlsx
-│   ├── data/
-│   │   └── budget_vs_actuals.csv
-│   └── screenshots/
-│       └── dashboard_preview.png
+├── 02-ESG-Finance/
+│   ├── company_esg_financial_dataset.xlsx
+│   ├── ESG-Fin-performance-Dashboard
 │
 ├── 03-Customer-Analytics/
 │   ├── Customer_Analytics_Dashboard.xlsx
